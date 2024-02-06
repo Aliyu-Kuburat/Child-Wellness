@@ -17,6 +17,11 @@
 Forty3 Hub is a leading health-tech company providing innovative digital wellness products and services. Treasures is an upcoming child wellness app designed to revolutionize how we care for our little ones. A comprehensive questionnaire has been conducted to ensure that the app aligns with the needs of parents, caregivers, and the community at large.
 
 ### Insights
+<img width="655" alt="image" src="https://github.com/Aliyu-Kuburat/Child-Wellness/assets/156312358/1d1401da-4865-4fb9-8f15-88d10b7caf63">
+<img width="654" alt="image" src="https://github.com/Aliyu-Kuburat/Child-Wellness/assets/156312358/87689924-91be-463a-9aee-4de15a048e4c">
+<img width="647" alt="image" src="https://github.com/Aliyu-Kuburat/Child-Wellness/assets/156312358/96971652-667a-4bee-a916-3fa08cecdb8c">
+<img width="655" alt="image" src="https://github.com/Aliyu-Kuburat/Child-Wellness/assets/156312358/137491ab-cae6-457d-9a68-04b244b2a335">
+<img width="653" alt="image" src="https://github.com/Aliyu-Kuburat/Child-Wellness/assets/156312358/a5df9e2c-0aaa-4f9a-a963-0fd3bc2d5217">
 
 
 
